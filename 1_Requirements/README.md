@@ -9,11 +9,15 @@
 * Only limited amount of data.
 ## SWOT Analysis
 ![SWOT](https://user-images.githubusercontent.com/101858144/161410629-9c8ad5af-89bc-47b5-9d9f-93114508f41f.png)
-## High Level Requirements
-* HR01-Project working on windows and linux-Implemented
-* HR02-C programming-Implemented
-* HR03-Student assess-Future
+# High Level Requirements
+| ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| HR01 | Project working on windows and linux | Implemented |
+| HR02 | C programming | Implemented |
+| HR03 | Student assess | Future |
 ## Low Level Requirement
-* LR01-Only staff can select edit the details-Implemented
-* LR02-More details collecting-Implemented
-* LR03-Student Leaderboard-	Future
+| ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| LR01 | Only staff can select edit the details | Implemented |
+| LR02 | More details collecting | Implemented |
+| LR03 | Student Leaderboard | Future |
