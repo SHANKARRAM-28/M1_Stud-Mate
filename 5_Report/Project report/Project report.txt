@@ -1,0 +1,13 @@
+OBJECTIVE
+	The objective of the project is to develop a system that maintains the data and activities of a students.
+ 	The purpose is to design a system using which one can maintain the student information.
+
+EXISTING SYSTEM
+ 	In the present system a staff and management has to store various student details and to find details of student.
+ 	This often requires a lot of time and effort.
+ 	It is tedious for a staff to maintain the handwork details of the student.
+
+PROPOSED SYSTEM
+ 	The proposed system is a web based application and maintains a centralized repository of all related information.
+ 	The system allows one to easily access the relevant information and manage student information.
+	users can assess the information of the student when they need.
